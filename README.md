@@ -10,8 +10,8 @@ gmw-zjw 的个人博客
 
 ### 最新
 
-* [我是测试](https://blog.lizhy.xyz/articles/2019/09/03/1567489142129.html)
-* [世界，你好！](https://blog.lizhy.xyz/hello-solo)
+* [fdfsdgsd](http://www.gaomingwei.xyz/articles/2019/09/03/1567500921146.html)
+* [世界，你好！](http://www.gaomingwei.xyz/hello-solo)
 
 
 
