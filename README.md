@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [typescript](https://www.gaomingwei.xyz/articles/2019/09/06/1567749894265.html)
+* [支付宝小程序开发体验](https://www.gaomingwei.xyz/articles/2019/09/06/1567730061624.html)
 * [使用typescript重构react项目](https://www.gaomingwei.xyz/articles/2019/09/05/1567667567816.html)
 * [webpack自定义插件](https://www.gaomingwei.xyz/articles/2019/09/05/1567650662190.html)
 * [自定义react、typescript开发脚手架](https://www.gaomingwei.xyz/articles/2019/09/04/1567569136582.html)
