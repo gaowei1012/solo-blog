@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [go运行中出现的问题](https://www.gaomingwei.xyz/articles/2019/09/11/1568172633651.html)
 * [在go中session封装](https://www.gaomingwei.xyz/articles/2019/09/10/1568096211219.html)
 * [go数据操作](https://www.gaomingwei.xyz/articles/2019/09/10/1568080043069.html)
 * [go文件上传](https://www.gaomingwei.xyz/articles/2019/09/09/1568023243046.html)
