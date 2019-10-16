@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Promise A+ 实现](https://www.gaomingwei.xyz/articles/2019/10/16/1571221674517.html)
+* [从源码的角度，解读vue数据双向绑定](https://www.gaomingwei.xyz/articles/2019/10/16/1571200477684.html)
 * [vue 思考什么是依赖收集，为什么要依赖收集？](https://www.gaomingwei.xyz/articles/2019/10/15/1571125063642.html)
 * [从Vue源码分析-- diff算法](https://www.gaomingwei.xyz/articles/2019/10/14/1571067667679.html)
 * [从Vue源码分析-Virtual DOM](https://www.gaomingwei.xyz/articles/2019/10/14/1571059427456.html)
@@ -28,20 +30,20 @@
 * [使用go搭建服务器，（用户注册登录）](https://www.gaomingwei.xyz/articles/2019/09/09/1568007563657.html)
 * [go 搭建简易web服务器](https://www.gaomingwei.xyz/articles/2019/09/08/1567936332789.html)
 * [typescript](https://www.gaomingwei.xyz/articles/2019/09/06/1567749894265.html)
-* [支付宝小程序开发体验](https://www.gaomingwei.xyz/articles/2019/09/06/1567730061624.html)
-* [使用typescript重构react项目](https://www.gaomingwei.xyz/articles/2019/09/05/1567667567816.html)
 
 ### 热门
 
 * [flutter屏幕适配](https://www.gaomingwei.xyz/articles/2019/09/03/1567504815365.html)
 * [promise实现](https://www.gaomingwei.xyz/articles/2019/09/03/1567518633573.html)
 * [React虚拟DOM浅析](https://www.gaomingwei.xyz/articles/2019/09/03/1567510445198.html)
+* [使用typescript重构react项目](https://www.gaomingwei.xyz/articles/2019/09/05/1567667567816.html)
 * [dcoker搭建web服务器](https://www.gaomingwei.xyz/articles/2019/09/03/1567505819698.html)
 * [javascript 的节流与防抖](https://www.gaomingwei.xyz/articles/2019/09/03/1567519662462.html)
 * [自定义react、typescript开发脚手架](https://www.gaomingwei.xyz/articles/2019/09/04/1567569136582.html)
 * [javascript 事件(event) loop](https://www.gaomingwei.xyz/articles/2019/09/03/1567510913841.html)
 * [使用 Crontab 定时任务更新 SOLO 以及备份数据库](https://www.gaomingwei.xyz/articles/2019/09/03/1567521826980.html)
 * [canvas](https://www.gaomingwei.xyz/articles/2019/09/04/1567551059666.html)
+* [支付宝小程序开发体验](https://www.gaomingwei.xyz/articles/2019/09/06/1567730061624.html)
 * [webpack自定义插件](https://www.gaomingwei.xyz/articles/2019/09/05/1567650662190.html)
 
 
