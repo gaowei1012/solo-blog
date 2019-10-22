@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [redux源码导读](https://www.gaomingwei.xyz/articles/2019/10/21/1571630399154.html)
 * [从源码来阅读Vuex](https://www.gaomingwei.xyz/articles/2019/10/18/1571387578003.html)
 * [浏览器缓存](https://www.gaomingwei.xyz/articles/2019/10/17/1571285590147.html)
 * [画张图来理解三此握手，四次挥手](https://www.gaomingwei.xyz/articles/2019/10/17/1571282598216.html)
@@ -29,7 +30,6 @@
 * [go运行中出现的问题](https://www.gaomingwei.xyz/articles/2019/09/11/1568172633651.html)
 * [在go中session封装](https://www.gaomingwei.xyz/articles/2019/09/10/1568096211219.html)
 * [go数据操作](https://www.gaomingwei.xyz/articles/2019/09/10/1568080043069.html)
-* [go文件上传](https://www.gaomingwei.xyz/articles/2019/09/09/1568023243046.html)
 
 ### 热门
 
@@ -43,11 +43,12 @@
 * [javascript 事件(event) loop](https://www.gaomingwei.xyz/articles/2019/09/03/1567510913841.html)
 * [使用 Crontab 定时任务更新 SOLO 以及备份数据库](https://www.gaomingwei.xyz/articles/2019/09/03/1567521826980.html)
 * [typescript](https://www.gaomingwei.xyz/articles/2019/09/06/1567749894265.html)
+* [go文件上传](https://www.gaomingwei.xyz/articles/2019/09/09/1568023243046.html)
 * [canvas](https://www.gaomingwei.xyz/articles/2019/09/04/1567551059666.html)
 * [go中form表单注册使用](https://www.gaomingwei.xyz/articles/2019/09/09/1568018508253.html)
 * [支付宝小程序开发体验](https://www.gaomingwei.xyz/articles/2019/09/06/1567730061624.html)
-* [使用go搭建服务器，（用户注册登录）](https://www.gaomingwei.xyz/articles/2019/09/09/1568007563657.html)
 * [go 搭建简易web服务器](https://www.gaomingwei.xyz/articles/2019/09/08/1567936332789.html)
+* [使用go搭建服务器，（用户注册登录）](https://www.gaomingwei.xyz/articles/2019/09/09/1568007563657.html)
 * [webpack自定义插件](https://www.gaomingwei.xyz/articles/2019/09/05/1567650662190.html)
 
 
